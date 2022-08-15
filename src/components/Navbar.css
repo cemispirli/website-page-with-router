@@ -1,0 +1,44 @@
+
+
+ .header {
+    background-color: #104b63fd;
+    color: #FFF;
+    height: 60px;
+    padding: 18px 18px;
+    border-bottom: 2px solid #cc469a;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    
+
+}
+
+.header span {
+
+    color: #cc469a;
+}
+
+.header p {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+li {
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+
+.home, .about, .services {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.home:hover, .about:hover, .services:hover {
+    color: #A95088;
+    cursor: pointer;
+}
+
