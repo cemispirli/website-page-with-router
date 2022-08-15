@@ -18,7 +18,7 @@ const Courses = () => {
     return (
         
       <div 
-      className=".container-sm text-center mt-5 w-50 mx-auto"
+      className=".container-sm text-center mt-5 w-50 mx-auto bg-light"
       key={id}>
         <img
           className=""
