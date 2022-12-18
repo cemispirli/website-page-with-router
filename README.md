@@ -1,3 +1,4 @@
+![](https://github.com/cemispirli/website-page-with-router/blob/master/website-page-with-router.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
